@@ -43,3 +43,8 @@ We welcome contributions to improve the game. Please follow these steps:
 4. Commit your changes.
 5. Push to the branch.
 6. Open a pull request.
+
+## Contact
+For any inquiries or issues, please contact:
+- **Email**: paramhanssingh084@gmail.com
+- **GitHub**: [paramhanssingh](https://github.com/Paramhans-Singh)
