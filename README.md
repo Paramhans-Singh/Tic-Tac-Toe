@@ -11,6 +11,7 @@ This project is a simple, interactive Tic Tac Toe game built using HTML, CSS, an
 - **Score Tracking**: Keep track of wins for both players.
 
 ## Tic Tac Toe Game Preview
+https://github.com/Paramhans-Singh/Tic-Tac-Toe/assets/101575816/251c5616-55c1-4715-b37c-d877cdbd2407
 
 
 ## Technologies Used
